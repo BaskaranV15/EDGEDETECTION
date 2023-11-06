@@ -111,8 +111,12 @@ plt.show()
 
 ### LAPLACIAN EDGE DETECTOR
 
+![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/67e4265f-1674-4214-8c06-e85c2f303cf3)
+
 
 ### CANNY EDGE DETECTOR
+
+![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/eeb69dd5-af90-405f-b775-9faf8e36a3b1)
 
 
 ## Result:
