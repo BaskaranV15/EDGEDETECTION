@@ -23,7 +23,10 @@ lap=cv2.Laplacian(gray,cv2.CV_64F)
 canny=cv2.Canny(gray,120,150)
 Display all the images with their respective edge detected images.
 ## Program:
-
+```
+NAME:BASKARAN V
+REF NO:212222230020
+```
 ``` Python
 # Import the packages
 import cv2
@@ -103,6 +106,14 @@ plt.show()
 
 ```
 ## Output:
+###  SOBEL X
+![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/c58ae9a5-d9ae-4921-9c58-83a8e32b9baf)
+###  SOBEL Y
+![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/9a07dd82-b5d6-4c6a-91ab-eadd18659292)
+###  SOBEL XY
+![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/41f7acd4-d995-41e7-a722-da3ac668ab62)
+
+
 ### SOBEL EDGE DETECTOR
 ![download](https://github.com/BaskaranV15/EDGEDETECTION/assets/118703522/c128fee4-6363-487a-896e-e3c685e31a9e)
 
